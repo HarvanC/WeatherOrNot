@@ -23,10 +23,6 @@ public class MainActivity extends AppCompatActivity {
     private TextView locationNameTxt;
     private LocationManager locationManager;
     private LocationListener locationListener;
-    /**
-     * ATTENTION: This was auto-generated to implement the App Indexing API.
-     * See https://g.co/AppIndexing/AndroidStudio for more information.
-     */
 
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
